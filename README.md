@@ -16,6 +16,8 @@ Project is created with:
 - JavaScript
 - Inquirer
 - MySQL
+- Express
+- Dotenv
 
 
 ## Acknowledgements
